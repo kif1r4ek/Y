@@ -1,6 +1,9 @@
 #pragma once
 
+#include <iostream>
+
+
 namespace YEngine
 {
-	void sayHello();
+	int checkGLFW();
 }

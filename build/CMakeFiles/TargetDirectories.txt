@@ -1,0 +1,14 @@
+D:/Projekts/C++/Y/Y/build/CMakeFiles/INSTALL.dir
+D:/Projekts/C++/Y/Y/build/CMakeFiles/ALL_BUILD.dir
+D:/Projekts/C++/Y/Y/build/CMakeFiles/ZERO_CHECK.dir
+D:/Projekts/C++/Y/Y/build/YCore/CMakeFiles/YCore.dir
+D:/Projekts/C++/Y/Y/build/YCore/CMakeFiles/INSTALL.dir
+D:/Projekts/C++/Y/Y/build/YCore/glfw/CMakeFiles/uninstall.dir
+D:/Projekts/C++/Y/Y/build/YCore/glfw/CMakeFiles/INSTALL.dir
+D:/Projekts/C++/Y/Y/build/YCore/glfw/CMakeFiles/ALL_BUILD.dir
+D:/Projekts/C++/Y/Y/build/YCore/glfw/src/CMakeFiles/glfw.dir
+D:/Projekts/C++/Y/Y/build/YCore/glfw/src/CMakeFiles/update_mappings.dir
+D:/Projekts/C++/Y/Y/build/YCore/glfw/src/CMakeFiles/INSTALL.dir
+D:/Projekts/C++/Y/Y/build/YCore/glfw/docs/CMakeFiles/INSTALL.dir
+D:/Projekts/C++/Y/Y/build/YEditor/CMakeFiles/YEditor.dir
+D:/Projekts/C++/Y/Y/build/YEditor/CMakeFiles/INSTALL.dir

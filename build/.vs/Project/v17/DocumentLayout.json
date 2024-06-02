@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekts\\C\u002B\u002B\\Y\\Y\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69EFA2AC-DC93-355B-BEC0-FFF2E1459B2F}|YCore\\YCore.vcxproj|D:\\Projekts\\C\u002B\u002B\\Y\\Y\\YCore\\scr\\YCore\\Utils\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EFA2AC-DC93-355B-BEC0-FFF2E1459B2F}|YCore\\YCore.vcxproj|D:\\Projekts\\C\u002B\u002B\\Y\\Y\\YCore\\includes\\YCore\\Utils\\test.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF05CB1-94F0-3F6A-9BFE-7A6D3D76388A}|YEditor\\YEditor.vcxproj|D:\\Projekts\\C\u002B\u002B\\Y\\Y\\YEditor\\scr\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\Projekts\\C\u002B\u002B\\Y\\Y\\YCore\\scr\\YCore\\Utils\\test.cpp",
+              "RelativeDocumentMoniker": "..\\YCore\\scr\\YCore\\Utils\\test.cpp",
+              "ToolTip": "D:\\Projekts\\C\u002B\u002B\\Y\\Y\\YCore\\scr\\YCore\\Utils\\test.cpp",
+              "RelativeToolTip": "..\\YCore\\scr\\YCore\\Utils\\test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T16:50:02.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.hpp",
+              "DocumentMoniker": "D:\\Projekts\\C\u002B\u002B\\Y\\Y\\YCore\\includes\\YCore\\Utils\\test.hpp",
+              "RelativeDocumentMoniker": "..\\YCore\\includes\\YCore\\Utils\\test.hpp",
+              "ToolTip": "D:\\Projekts\\C\u002B\u002B\\Y\\Y\\YCore\\includes\\YCore\\Utils\\test.hpp",
+              "RelativeToolTip": "..\\YCore\\includes\\YCore\\Utils\\test.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-01T16:49:24.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Projekts\\C\u002B\u002B\\Y\\Y\\YEditor\\scr\\main.cpp",
+              "RelativeDocumentMoniker": "..\\YEditor\\scr\\main.cpp",
+              "ToolTip": "D:\\Projekts\\C\u002B\u002B\\Y\\Y\\YEditor\\scr\\main.cpp",
+              "RelativeToolTip": "..\\YEditor\\scr\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T16:29:54.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

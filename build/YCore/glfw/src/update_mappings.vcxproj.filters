@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Projekts\C++\Y\Y\build\CMakeFiles\faffd7e2686c09e259198c914fa58ac3\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Projekts\C++\Y\Y\external\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Projekts\C++\Y\Y\external\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="D:\Projekts\C++\Y\Y\external\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="D:\Projekts\C++\Y\Y\build\YCore\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B24AA997-42E3-38EB-93C9-22F6C2010446}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{25F7A32E-860A-38EB-9B3B-828237E081BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

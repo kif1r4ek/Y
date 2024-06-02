@@ -4,5 +4,5 @@
 int main()
 {
 	std::cout << "Hello, world" << '\n';
-	YEngine::sayHello();
+	YEngine::checkGLFW();
 }

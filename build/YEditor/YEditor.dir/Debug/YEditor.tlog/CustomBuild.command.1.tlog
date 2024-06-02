@@ -1,0 +1,10 @@
+^D:\PROJEKTS\C++\Y\Y\YEDITOR\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Projekts/C++/Y/Y -BD:/Projekts/C++/Y/Y/build --check-stamp-file D:/Projekts/C++/Y/Y/build/YEditor/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
